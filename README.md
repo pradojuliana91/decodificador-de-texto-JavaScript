@@ -21,7 +21,7 @@ Este é um projeto desenvolvido com JavaScript, CSS3 e HTML5, como parte do desa
 
 ## Como Usar
 
-1. Acesse o [Decodificador de Texto]() no GitHub Pages.
+1. Acesse o [Decodificador de Texto](https://pradojuliana91.github.io/decodificador-de-texto-JavaScript/) no GitHub Pages.
 2. Escolha entre criptografar ou descriptografar.
 3. Insira o texto desejado no campo apropriado.
 4. O resultado será exibido na tela.
